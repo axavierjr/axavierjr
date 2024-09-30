@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @axavierjr
-- 👀 I’m interested in codes for astronomy, particularly for stellar astrophysics
+- 👀 I’m interested in codes for astronomy (particularly for stellar astrophysics) and physics.
 - 🌱 I’m currently learning Python, but I can code using  C#, C++ and Fortran 90. 
-- 💞️ I’m looking to collaborate on codes for astronomy and astronomy research.
 - 📫 You can reach me sending e-mails to xavnet2@gmail.com
+- Most of my research is found at https://www.researchgate.net/profile/Ademir-Xavier 
 
 <!---
 axavierjr/axavierjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
